@@ -2,6 +2,7 @@ RENCANA CONTENT
 - Javascript
   * FremaWork Javascript
     ^ Vue
+    ^ React
 - PHP framework
     ^ Laravel
 - Stuktur data dasar
