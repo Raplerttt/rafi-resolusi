@@ -1,5 +1,7 @@
 RENCANA CONTENT
 - Javascript
   * FremaWork Javascript
+    ^ Angular
+    ^ Reacr
 - PHP framework
-- Stuktur data dasar
+    ^ Laravel
