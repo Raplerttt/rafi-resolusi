@@ -1,5 +1,8 @@
 RENCANA CONTENT
 - Javascript
   * FremaWork Javascript
+    ^ Vue
 - PHP framework
+    ^ Laravel
 - Stuktur data dasar
+- Python
